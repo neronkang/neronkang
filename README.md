@@ -4,8 +4,13 @@
 
 #### 1. Use PreconditionAssertions wherever feasible
    
-- Issue: https://github.com/junit-team/junit-framework/issues/4943
-- PR   : https://github.com/junit-team/junit-framework/pull/5019
+- Issue : https://github.com/junit-team/junit-framework/issues/4943
+- PR : https://github.com/junit-team/junit-framework/pull/5019
+
+### [apache-seata](https://github.com/apache/incubator-seata)<br/>
+
+- Issue : https://github.com/apache/incubator-seata/issues/7920
+- PR : https://github.com/apache/incubator-seata/pull/7934
 <!--
 **neronsoda/neronsoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
