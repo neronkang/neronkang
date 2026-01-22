@@ -9,6 +9,8 @@
 
 ### [apache-seata](https://github.com/apache/incubator-seata)<br/>
 
+#### 1. Add OkHttp and MockWebServer dependencies to resolve version confilcts
+
 - Issue : https://github.com/apache/incubator-seata/issues/7920
 - PR : https://github.com/apache/incubator-seata/pull/7934
 <!--
