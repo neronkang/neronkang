@@ -7,7 +7,7 @@
 - Issue : https://github.com/junit-team/junit-framework/issues/4943
 - PR : https://github.com/junit-team/junit-framework/pull/5019
 
-### [apache-seata](https://github.com/apache/incubator-seata)<br/>
+### [apache/incubator-seata](https://github.com/apache/incubator-seata)<br/>
 
 #### 1. Add OkHttp and MockWebServer dependencies to resolve version confilcts
 
